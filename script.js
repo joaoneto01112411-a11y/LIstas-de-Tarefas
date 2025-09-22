@@ -27,5 +27,7 @@ function getTarefas(){
 function setErro(msg) {erro.textContent = msg ||"";}
 
 function atualizarContadores() {
+    const todos = gettarefas();
     const
+
 }
